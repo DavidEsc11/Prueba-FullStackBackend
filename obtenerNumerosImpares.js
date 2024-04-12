@@ -15,7 +15,7 @@ function obtenerNumerosImpares(numero) {
     return impares;
   }
   
-  // Ejemplo de uso
+
   const numeroDigitado = 9;
   const numerosImpares = obtenerNumerosImpares(numeroDigitado);
   console.log(numerosImpares);
